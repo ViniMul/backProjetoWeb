@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "titulo": "The Last of Us",
+    "tipo": "Série",
+    "capa": "https://br.web.img3.acsta.net/pictures/22/11/30/19/53/5856320.jpg",
+    "ano": 2023,
+    "favorito": false,
+    "rating": 9.1
+  },
+  {
+    "id": 2,
+    "titulo": "The Mandalorian",
+    "tipo": "Série",
+    "capa": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTME9-7FfbMpeoWN9LWrsHO4XNtx3jYcy8RNYBkajgYHJy_WweetIZZFBCkwrmcfXSdz8Q-tl0iUwlNGffWaRKtHM1k1rUaUafLYYHQBr4",
+    "ano": 2019,
+    "favorito": true,
+    "rating": 8.7
+  },
+  {
+    "id": 3,
+    "titulo": "Tudo em Todo Lugar ao Mesmo Tempo",
+    "tipo": "Filme",
+    "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSUbIFmLh722GBnFa9ev44ztBPKuZ5HVwHAg&s",
+    "ano": 2022,
+    "favorito": true,
+    "rating": 8
+  },
+  {
+    "id": 4,
+    "titulo": "Triângulo da Tristeza",
+    "tipo": "Filme",
+    "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD9rKyb2LTlRTcFCZdX2UqNNOrTQ7bL7ZGAA&s",
+    "ano": 2022,
+    "favorito": false,
+    "rating": 7.3
+  },
+  {
+    "id": 5,
+    "titulo": "Daisy Jones & The Six",
+    "tipo": "Série",
+    "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi1aZAuCP6rVVoeI-NPLdtkzrPyEkEPQL9KQ&s",
+    "ano": 2023,
+    "favorito": false,
+    "rating": 7.8
+  },
+  {
+    "id": 6,
+    "titulo": "Luther",
+    "tipo": "Série",
+    "capa": "https://m.media-amazon.com/images/M/MV5BNmViZjE1MjEtZjRlZC00MWMzLTg0ODItYjI1ODZiNzk5YzBiXkEyXkFqcGc@._V1_.jpg",
+    "ano": 2010,
+    "favorito": false,
+    "rating": 8.4
+  },
+  {
+    "id": 7,
+    "titulo": "Origem",
+    "tipo": "Filme",
+    "capa": "https://upload.wikimedia.org/wikipedia/pt/c/c0/From_%28série%29.jpg",
+    "ano": 2010,
+    "favorito": false,
+    "rating": 8.8
+  },
+  {
+    "id": 8,
+    "titulo": "Banshees de Inisherin",
+    "tipo": "Filme",
+    "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKi8sV1hjMhxmBg_YWfYqdyWQqUzA94iiSZw&s",
+    "ano": 2022,
+    "favorito": false,
+    "rating": 7.7
+  },
+  {
+    "id": 9,
+    "titulo": "Breaking Bad",
+    "tipo": "Série",
+    "capa": "https://br.web.img3.acsta.net/pictures/14/03/31/19/28/462555.jpg",
+    "ano": 2008,
+    "favorito": false,
+    "rating": 9.5
+  },
+  {
+    "id": 10,
+    "titulo": "Oppenheimer",
+    "tipo": "Filme",
+    "capa": "https://br.web.img2.acsta.net/pictures/23/05/08/10/29/0695770.jpg",
+    "ano": 2023,
+    "favorito": false,
+    "rating": 8.6
+  },
+  {
+    "id": 11,
+    "titulo": "Interstellar",
+    "tipo": "Filme",
+    "capa": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/aa5b9295-8f9c-44f5-809b-3f2b84badfbf/8a7dd34b09c9c25336a3d850d4c431455e1aaaf0.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
+    "ano": 2014,
+    "favorito": true,
+    "rating": 8.6
+  },
+  {
+    "id": 12,
+    "titulo": "Peaky Blinders",
+    "tipo": "Série",
+    "capa": "https://m.media-amazon.com/images/I/81TBGC8grrL._UF894,1000_QL80_.jpg",
+    "ano": 2013,
+    "favorito": false,
+    "rating": 8.8
+  }
+]
