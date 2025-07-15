@@ -106,5 +106,69 @@
     "ano": 2013,
     "favorito": false,
     "rating": 8.8
+  },
+  {
+    "id": 13,
+    "titulo": "Duna: Parte Um",
+    "tipo": "Filme",
+    "capa": "https://m.media-amazon.com/images/M/MV5BNzk5MTE4YTUtNGU2My00MTYxLWE5NGItODk4YWFkOWYyMjA5XkEyXkFqcGc@._V1_.jpg",
+    "ano": 2021,
+    "favorito": false,
+    "rating": 8.1
+  },
+  {
+    "id": 14,
+    "titulo": "The Boys",
+    "tipo": "Série",
+    "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-NzwStXaV1XBaDxvWI43PGUcefVNZNGVW9w&s",
+    "ano": 2019,
+    "favorito": true,
+    "rating": 8.7
+  },
+  {
+    "id": 15,
+    "titulo": "Whiplash: Em Busca da Perfeição",
+    "tipo": "Filme",
+    "capa": "https://m.media-amazon.com/images/I/914trm0WbIL._UF1000,1000_QL80_.jpg",
+    "ano": 2014,
+    "favorito": true,
+    "rating": 8.5
+  },
+  {
+    "id": 16,
+    "titulo": "Guardiões da Galáxia Vol. 3",
+    "tipo": "Filme",
+    "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCE5u7fq5U5ebd34k1X9yuMAU_8tqXrhxdz9JeMUPgegO-tqOJSrPpjHAYIfygWlbctNg&usqp=CAU",
+    "ano": 2023,
+    "favorito": true,
+    "rating": 8.1
+  },
+  {
+    "id": 17,
+    "titulo": "The Crown",
+    "tipo": "Série",
+    "capa": "https://upload.wikimedia.org/wikipedia/pt/a/ab/The-Crown-S3-Poster.jpg",
+    "ano": 2016,
+    "favorito": true,
+    "rating": 8.6
+  },
+  {
+    "id": 18,
+    "titulo": "Chernobyl",
+    "tipo": "Série",
+    "capa": "https://upload.wikimedia.org/wikipedia/pt/9/92/PosterChernobyl.jpg",
+    "ano": 2019,
+    "favorito": true,
+    "rating": 9.4
+  },
+  {
+    "id": 19,
+    "titulo": "Trem-Bala",
+    "tipo": "Filme",
+    "capa": "https://www.sonypictures.com.br/sites/brazil/files/2022-09/TREM%20BALA%20HE.JPG",
+    "ano": 2022,
+    "favorito": true,
+    "rating": 7.3
   }
+]
 ]
